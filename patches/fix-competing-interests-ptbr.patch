@@ -1,0 +1,13 @@
+--- a/locale/pt_BR/author.po
++++ b/locale/pt_BR/author.po
+@@ -17,9 +17,7 @@
+ msgstr "Nova Submissão"
+ 
+ msgid "author.competingInterests"
+-msgstr ""
+-"Interesses concorrentes<a target=\"_new\" class=\"action\" href="
+-"\"{$competingInterestGuidelinesUrl}\">Política de IC</a>"
++msgstr "Conflito de interesses"
+ 
+ msgid "author.submit.startHereLink"
+ msgstr ""
